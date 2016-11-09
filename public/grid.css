@@ -17,6 +17,10 @@
 	display: table;
 }
 
+body {
+	margin:0;
+}
+
 
 /*-- Grid --*/
 .column {
@@ -27,6 +31,7 @@
 }
 	.full{
 		width:99.75%;
+		margin-right: 0%;
 	}
 	.one-half {
 		width: 48.75%;
